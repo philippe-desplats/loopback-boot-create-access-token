@@ -1,7 +1,7 @@
 {
 	"name": "loopback-boot-create-access-token",
 	"version": "0.1.0",
-	"description": "Module for generating an access token with an administrator account with all accessess.",
+	"description": "Module for generating an access token with an administrator account with all access.",
 	"main": "./lib/index.js",
 	"engines": {
 		"node": ">=4"
