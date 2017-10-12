@@ -8,6 +8,12 @@
     Loopback 3 Starter Script
 </p>
 
+<p align="center">
+    <a href="https://travis-ci.org/RedekProject/loopback-boot-create-access-token">
+        <img alt="Travis status" src="https://travis-ci.org/RedekProject/loopback-boot-create-access-token.svg?branch=master">
+    </a>
+</p>
+
 <h1 align="center">Loopback Boot Script : Create access token</h1>
 
 This module is exclusively designed for [Strongloop Loopback](http://loopback.io/getting-started/).
